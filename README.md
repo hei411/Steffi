@@ -47,7 +47,7 @@ For more information regarding the proof sketch, feel free to contact Hei Li via
 
 We would not suggest that. We believe that programs possess their own spiritual personality, and compiling them with the wrong language creates a dissonace in the energies. In simpler terms, the vibes are off. 
 
-You can think of it as trying to drink your soup with a dessert spoon and consume your cake with a soup spoon in a resturant. Yes, it probably still does the job, but your partner will be awfully disgusted and will be reluctant to go out on another date with you in public.
+You can think of it as trying to drink your soup with a dessert spoon and consume your cake with a soup spoon in a resturant. Yes, it probably still does the job, but your partner will be awfully disgusted and will be reluctant to go out on an another date with you in public.
 
 ### Don't these transpilers do nothing?
 These are false accusations thrown by IO-effect-deniers. 
