@@ -29,9 +29,9 @@ Your old Rust/Crablang files will then be replaced by the new transpiled files, 
 
 ### I did not supply any file names to Steffi. How does Steffi know which files to transpile?
 
-Excellent question. Though traditional compilers and transpilers require  user to specify the input files to be processed, Steffi utilizes **MIND-READING<sup>TM</sup>**, the state-of-the-art human-to-CPU communication channel technology. Upon execution, Steffi runs a non-trivial algorithm that surpasses all ten dimensions of the universe (excluding time) to create a reliable link with your human brain via TCP and extract the name of the files you want to transpile. Before termination, the computer and human undergo an honorable four-way handshake before closing the connection.
+Excellent question. Though traditional compilers and transpilers require  the user to specify the input files to be processed, Steffi utilizes **MIND-READING<sup>TM</sup>**, the state-of-the-art human-to-CPU communication channel technology. Upon execution, Steffi runs a non-trivial algorithm that surpasses all ten dimensions of the universe (excluding time) to create a reliable link with your human brain via TCP and extract the name of the files you want to transpile. Before termination, the computer and human undergo an honorable four-way handshake before closing the connection.
 
-**MIND-READING<sup>TM</sup>** is tested to be harmless and should not induce any side-effect to the user. We have just submitted a patent on this technology and are waiting for center to reply.
+**MIND-READING<sup>TM</sup>** is tested to be harmless and should not induce any side-effect to the user. We have just submitted a patent on this technology and are waiting for the center to reply.
 
 ### What about a transpiler from Rust to CrabLang written in CrabLang? 
 
