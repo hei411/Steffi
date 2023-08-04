@@ -30,7 +30,7 @@ Your old Rust/Crablang files will then be replaced by the new transpiled files, 
 
 ### My file  cannot be compiled by Rust/CrabLang originally, but it is accepted as input by Steffi. How is that possible?
 
-Steffi accepts all codes as input, even those that cannot be compiled by Rust/CrabLang to begin with. Steffi does so by analyzing all the errors of the original file extensively, and transpile it into a file that contains the **exact same errors**, only in a different language.
+Steffi accepts all codes as input, even those that cannot be compiled by Rust/CrabLang to begin with. Steffi does so by analyzing all the errors of the original file extensively, and transpiles it into a file that contains the **exact same errors**, only in a different language.
 
 
 
@@ -38,7 +38,7 @@ Steffi accepts all codes as input, even those that cannot be compiled by Rust/Cr
 
 Excellent question. Though traditional compilers and transpilers require  the user to specify the input files to be processed, Steffi utilizes **MIND-READING<sup>TM</sup>**, the state-of-the-art human-to-CPU communication channel technology. Upon execution, Steffi runs a non-trivial algorithm that surpasses all ten dimensions of the universe (excluding time) to create a reliable link with your human brain via TCP and extract the name of the files you want to transpile. Before termination, the computer and human undergo an honorable four-way handshake before closing the connection.
 
-In fact, **MIND-READING<sup>TM</sup>** is so powerful that some suggests that the connection can also be established between computers. Therefore, you can transpile files with Steffi, even if the files are located in another server without ssh-ing into it beforehand.
+In fact, **MIND-READING<sup>TM</sup>** is so powerful that some suggest that the connection can also be established between computers. Therefore, you can transpile files with Steffi, even if the files are located in another server without ssh-ing into it beforehand.
 
 **MIND-READING<sup>TM</sup>** is tested to be harmless and should not induce any side-effect to the user. We have just submitted a patent on this technology and are waiting for the center to reply.
 
