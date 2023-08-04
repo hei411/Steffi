@@ -54,4 +54,4 @@ These are false accusations thrown by IO-effect-deniers.
 First of all, both Steffi transpilers actually write to the screen, which is _something_, and not equivalent to nothing. Also, if you pay attention to the execution of the programs carefully, the programs actually generate huge amount of side-effects, including but not limited to heat from the computer and the sounds from the fan.
 
 ### This is a dumb project.
-That is not a question.
+This is not a question.
