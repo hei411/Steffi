@@ -39,7 +39,7 @@ Ah-ha! You did not think this through, did you? Just transpile `steffi1` with `s
 You can do the same with `steffi2` to create a transpiler from CrabLang to Rust written in Rust.
 
 ### Is Steffi formally verified?
-The correctness of Steffi is not formally proven with a proof assistant yet, but we have do have a pen-and-paper proof on its correctness at the moment. 
+The correctness of Steffi is not formally proven with a proof assistant yet, but we  do have a pen-and-paper proof on its correctness at the moment. 
 
 For more information regarding the proof sketch, feel free to contact Hei Li via [hei411@gmail.com](hei411@gmail.com).
 
